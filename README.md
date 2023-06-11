@@ -352,6 +352,10 @@ home.html## HOME CODE:
 </html>
 ```
 ## OUTPUT:
+![](/244183523-2b4e261f-2603-4d87-bd2c-5dd16a82d3c6.png)
+![](/244183597-d552c9eb-b6a6-43aa-b0ca-7f56be10812a.png)
+![](/244184669-71533676-3535-4d1b-ad25-081e25a7030a.png)
+
 
 
 ### Home Page:
